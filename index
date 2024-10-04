@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>link rel="stylesheet" href="mysite.css</title>
+</head>
+
+<body>
+  <img class="tint" src="https://cm.author.today/content/2019/11/21/e19400817bba41c983ba96dfc2215a88.jpg"width="800 px"/>
+  <div class="centred">
+    <form>
+      Инициалы: <input type = "text" class = "test2" ><br>
+Фамилия: <input type = "text" class = "test2" > <br>
+Индекс: <input type = "text" class = "test1" ><br>
+Город: <input type = "text" class = "test1" ><br>
+Улица: <input type = "text" class = "test1" ><br>
+Дом: <input type = "text" class = "test1" ><br>
+Квартира: <input type = "text" class = "test1" ><br>
+      <hr>
+    </form>
+    <button class="test3">Отправить данные</button>
+  </div>
+</body>
