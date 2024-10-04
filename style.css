@@ -1,32 +1,30 @@
 .centred {
     position: absolute;
-    top: 30%;
+    top: 15%;
     left: 50%;
-    transform: translate(-50%, 30%);
-}
+    transform: translate(-60%, 30%); }
 
 .tint {
     opacity: 50%;
     position: absolute;
     top: 50%;
     left: 50%;
-    transform: translate(-50%, -50%);
-}
+    transform: translate(-50%, -50%);}
 
 input.test1:focus {
     background-color: rgb(152, 139, 200);
-    opacity: 60%;
-}
+    opacity: 60%; }
 
 input.test2:focus {
     background-color: rgb(193, 109, 91);
-    opacity: 60%;
-}
+    opacity: 60%;}
 
-.test3 {
+.test3 { position: absolute;
+    top: 67%;
+    left: 48%;
+    transform: translate(-50%, -50%);
     font-family: Rubik Mono One;
     font-size: 25px;
     text-align: center;
     color: rgb(162, 0, 0);
-    opacity: 60%;
-}
+    opacity: 60%; }
